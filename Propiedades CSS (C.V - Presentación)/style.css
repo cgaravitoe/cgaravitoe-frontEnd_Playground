@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+.datosPersonales{
+
+    font-style: italic
+
+}
+
+.menuExterno{
+
+text-align: end;
+
+}
+a{
+    color: #C4C4C4;
+    text-decoration: double;
+    font-size: larger;
+    
+
+}
+body{
+    background-color: #E5E5E5;
+    font-family: 'Russo One', sans-serif;
+}
+main{
+    background-color: #f0f1f3;
+}
+header{
+    text-align: center;
+    background-image: url(img/fondo.jpg);
+}
+h1{
+    background-color:#C4C4C4 ;
+    height: auto;
+    text-align: center;
+    color: #005677;
+}
+    
+.presentacion{
+    background-color: #e7eef0;
+}
+    
+
+h2{
+    background-color:#C4C4C4 ;
+    height:auto;
+        color: #005677;
+}
+
+
+footer {
+background-color: #005677;
+text-align: center;
+
+}
+
+.piesobremi{
+    text-align: right;
+    height: auto;
+}
+.firma{
+    text-align: right;
+}
