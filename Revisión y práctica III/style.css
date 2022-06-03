@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Russo+One&display=swap');
+
+
+body{
+    font-family: 'Roboto';
+}
+header {
+background-color: #222222;
+color: #F3F3F3;
+font-weight: 400;
+font-style:normal;
+}
+.nav1{
+display:inline;
+}
+
+.bloque2{
+    background-color: #F0A83E;
+    color: #FFFFFF;
+    font-weight: 400;
+}
+.nav2{
+    display:inline;
+}
+
+.bloque3{   
+    color: #3C2313;
+    font-weight: 400;
+}
+#frase1{
+    background-color: #FFFFFF;
+    color: #3C2313;
+    size: 30px;
+}
+#frase2{
+    color: #3C2313;
+    size: 16px;
+}
+#frase3{
+    background-color: #F0A83E;
+    size: 30px;
+    color: #FFFFFF;
+}  
+
+.bloque4{
+    text-align: center;
+}
+#frase4{
+    color:#3C2313;
+    font-style: normal;
+    font-weight: 700; 
+    font-size: 40px;
+}
+#frase5{
+    color:#666666;
+    font-weight: 400;  
+    font-style: normal;
+    font-size: 15px;
+}
+
+.frase6{
+    color: #3C2313;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+}
+.frase7{
+    color: #F0A83E;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.bloque6{
+    text-align: center;
+}
+#frase8{
+    color: #3C2313;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+}
+.frase9{
+    background-color: #3C2313;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9px;
+}
+#frase10{
+    background-color: #8A8787;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+#frase11{
+    background-color: #F0A83E;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.bloque7{
+    background-color: #F0A83E;
+}
+#frase12{
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+}
+#frase13{
+    background-color: #FFFFFF;
+    color: #A0A0A0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 9px;
+}
+#frase14{
+    background-color: #3C2313;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 9px;
+}
+
+.bloque8{
+    background-color: #3C2313;
+}
+
+.bloque9{
+    text-align: center;
+    background-color: #222222;
+    color:#FFFFFF;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+ }
+
+
