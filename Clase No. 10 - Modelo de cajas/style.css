@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Russo+One&display=swap');
+
+body{
+   
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+/*header*/
+header{
+    position: relative;
+    background-color: #1CD1B0;
+    width: auto;
+    height: 38px;
+    left: 0px;
+    top: 0px;
+} 
+.descuento{
+    position: absolute;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    color:black;
+    left: 10px;
+    top: -7px;
+    width: 111px;
+    height: 18px;
+}
+/* Descuentos 20% */
+.heroe{
+    
+    position: sticky;
+    box-sizing: border-box;
+    width: auto;
+    height: 101px;
+    left: 0px;
+    top: 0px;
+    background: #00669F;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+}
+h1{
+    position: absolute;
+    width: 128px;
+    height: 47px;
+    left: 28px;
+    top: -5px;
+    font-weight: 400;
+    font-size: 40px;
+    color: #000000;
+   
+}
+
+
+/*arreglo de imagenes*/
+.fotobatman1 {
+width: 120px;
+height: 118px;
+position: absolute;
+left: 87px;
+right: 60px;
+top: 50px;
+bottom: 60px;
+}
+
+.fondofotobatman{
+    width: 300px;
+    height: 193px;
+
+}
+
+   .fondofotoliga{
+       width: 300px;
+       height: 193px;
+   }
+
+
+p{
+display: inline-block;
+}
+
+.caja1{
+display: inline-block;
+position: relative;
+width: 300px;
+height: 520px;
+text-align: center;
+background: #F3F3F3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+margin-left:90px;
+margin-top:150px;
+
+}
+.nombres{
+
+width: 122px;
+height: 35px;
+left: 121px;
+top: 559px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+color: #000000;
+}
+.resumen{
+width: 267px;
+height: 113px;
+left: 48px;
+top: 604px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+color: #333333;
+}
+.cajaboton{
+    position: absolute;
+    width: 128.78px;
+    height: 48.52px;
+    left: 80px;
+ 
+    top: 460px;
+
+    background: #00669F;
+
+}
+.boton{
+
+    position: absolute;
+    width: 56px;
+    height: 18px;
+    right: 35px;
+  
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #F3F3F3;
+    
+}
+footer{
+position: relative;
+width: auto;
+height: 51px;
+left: 0px;
+bottom: 0;
+top: 280px;
+background: #00669F;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.front{
+    position: absolute;
+    width: 337px;
+    height: 19px;
+    left: 16px;
+    bottom: 0px;
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFF9F9;  
+}
+
